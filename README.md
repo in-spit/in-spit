@@ -1,17 +1,17 @@
-## Hi there 👋
+## My github ##
 
-<!--
-**in-spit/in-spit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
--->
-Here are some ideas to get you started:
+Hi! I'm inspitt, I'm currently in my exam year for middle school (17y/o) and will be starting with a major in CS after that. 
+I have been interested in computers and whatnot since I was a wee lad, and I've picked up some skills along the way.
 
-- 🔭 I’m currently working on A 3D rendering software (not open source tho) 
-- 🌱 I’m currently learning: C++ and C# soon to be added
-- 👯 I’m looking to collaborate on mostly portfolio projects
-- 🤔 I’m looking for help with anything web design (check out for example <a href="https://github.com/in-spit/NebulonWeb"> NebWeb</a> for a shell of my most recent work)
-<!--
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+my current skillset includes:
+  -Html, Css and Js web design
+  -Basic C++ rendering with OpenGL
+  -More to be added of course
+
+I am also currently working on:
+  -A webserver written in ASP.net with C#
+  -Learning basic electronics
+  -figuring out 3d printing and prototyping things with real life purpose.
+
+For all my completed work, look either at my github page (where you are right now),
+or move over to my portfolio page: https://portfolio.inspitt.nl
