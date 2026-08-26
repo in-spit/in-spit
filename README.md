@@ -1,7 +1,7 @@
 # About me 
 
 <picture>
-  <img src="assets/hero.png" alt="inspitt - Web designer and tinkerer>
+  <img src="assets/hero.png" alt="inspitt - Web designer and tinkerer>" width="100%"
 </picture>
 
 # inspitt
